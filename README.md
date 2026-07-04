@@ -9,7 +9,6 @@ Built as an internship project combining **Frontend Development, JavaScript Logi
 ## 🔗 Live Demo
 
 - **Netlify:** https://drone-verse.netlify.app/
-- **GitHub Pages:** https://sami-gujjar.github.io/drone-store/
 
 ## 📂 Repository
 
